@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">restarterTest</string>
+    <string name="service_name">restarter_notificator</string>
+</resources>
